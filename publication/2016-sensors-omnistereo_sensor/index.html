@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.29" />
+  <meta name="generator" content="Hugo 0.30.2" />
   <meta name="author" content="City College Robotics">
   <meta name="description" content="Laboratory">
 
@@ -39,13 +39,25 @@
 
   
 
-  <link rel="alternate" href="" type="application/rss+xml" title="CCNY Robotics Lab">
-  <link rel="feed" href="" type="application/rss+xml" title="CCNY Robotics Lab">
+  
 
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
   <link rel="canonical" href="https://ccny-ros-pkg.github.io/publication/2016-sensors-omnistereo_sensor/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="CCNY Robotics Lab">
+  <meta property="og:url" content="https://ccny-ros-pkg.github.io/publication/2016-sensors-omnistereo_sensor/">
+  <meta property="og:title" content="Design and Analysis of a Single-Camera Omnistereo Sensor for Quadrotor Micro Aerial Vehicles (MAVs) | CCNY Robotics Lab">
+  <meta property="og:description" content="We describe the design and 3D sensing performance of an omnidirectional stereo (omnistereo) vision system applied to Micro Aerial Vehicles (MAVs). The proposed omnistereo sensor employs a monocular camera that is co-axially aligned with a pair of hyperboloidal mirrors (a vertically-folded catadioptric configuration). We show that this arrangement provides a compact solution for omnidirectional 3D perception while mounted on top of propeller-based MAVs (not capable of large payloads). The theoretical single viewpoint (SVP) constraint helps us derive analytical solutions for the sensor&#39;s projective geometry and generate SVP-compliant panoramic images to compute 3D information from stereo correspondences (in a truly synchronous fashion). We perform an extensive analysis on various system characteristics such as its size, catadioptric spatial resolution, field-of-view. In addition, we pose a probabilistic model for the uncertainty estimation of 3D information from triangulation of back-projected rays. We validate the projection error of the design using both synthetic and real-life images against ground-truth data. Qualitatively, we show 3D point clouds (dense and sparse) resulting out of a single image captured from a real-life experiment. We expect the reproducibility of our sensor as its model parameters can be optimized to satisfy other catadioptric-based omnistereo vision under different circumstances."><meta property="og:image" content="https://ccny-ros-pkg.github.io/img/publications/pelican_with_75mm_catahyphereo_rig.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2016-02-06T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2016-02-06T00:00:00&#43;00:00">
+  
 
   
 
@@ -59,6 +71,7 @@
 
     
     <div class="navbar-header">
+      
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
               data-target=".navbar-collapse" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
@@ -66,6 +79,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+      
       <a class="navbar-brand" href="/">CCNY Robotics Lab</a>
     </div>
 
@@ -179,28 +193,28 @@
     <li>
       <a class="twitter"
          href="https://twitter.com/intent/tweet?text=Design%20and%20Analysis%20of%20a%20Single-Camera%20Omnistereo%20Sensor%20for%20Quadrotor%20Micro%20Aerial%20Vehicles%20%28MAVs%29&amp;url=https%3a%2f%2fccny-ros-pkg.github.io%2fpublication%2f2016-sensors-omnistereo_sensor%2f"
-         target="_blank">
+         target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
          href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fccny-ros-pkg.github.io%2fpublication%2f2016-sensors-omnistereo_sensor%2f"
-         target="_blank">
+         target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
          href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fccny-ros-pkg.github.io%2fpublication%2f2016-sensors-omnistereo_sensor%2f&amp;title=Design%20and%20Analysis%20of%20a%20Single-Camera%20Omnistereo%20Sensor%20for%20Quadrotor%20Micro%20Aerial%20Vehicles%20%28MAVs%29"
-         target="_blank">
+         target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
          href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fccny-ros-pkg.github.io%2fpublication%2f2016-sensors-omnistereo_sensor%2f&amp;title=Design%20and%20Analysis%20of%20a%20Single-Camera%20Omnistereo%20Sensor%20for%20Quadrotor%20Micro%20Aerial%20Vehicles%20%28MAVs%29"
-         target="_blank">
+         target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
@@ -217,80 +231,80 @@
     </span>
   </div>
 
-</div>
-<div class="article-container">
+  <div class="article-container">
 
-  
+    
 
-  <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">We describe the design and 3D sensing performance of an omnidirectional stereo (omnistereo) vision system applied to Micro Aerial Vehicles (MAVs). The proposed omnistereo sensor employs a monocular camera that is co-axially aligned with a pair of hyperboloidal mirrors (a vertically-folded catadioptric configuration). We show that this arrangement provides a compact solution for omnidirectional 3D perception while mounted on top of propeller-based MAVs (not capable of large payloads). The theoretical single viewpoint (SVP) constraint helps us derive analytical solutions for the sensor&rsquo;s projective geometry and generate SVP-compliant panoramic images to compute 3D information from stereo correspondences (in a truly synchronous fashion). We perform an extensive analysis on various system characteristics such as its size, catadioptric spatial resolution, field-of-view. In addition, we pose a probabilistic model for the uncertainty estimation of 3D information from triangulation of back-projected rays. We validate the projection error of the design using both synthetic and real-life images against ground-truth data. Qualitatively, we show 3D point clouds (dense and sparse) resulting out of a single image captured from a real-life experiment. We expect the reproducibility of our sensor as its model parameters can be optimized to satisfy other catadioptric-based omnistereo vision under different circumstances.</p>
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">We describe the design and 3D sensing performance of an omnidirectional stereo (omnistereo) vision system applied to Micro Aerial Vehicles (MAVs). The proposed omnistereo sensor employs a monocular camera that is co-axially aligned with a pair of hyperboloidal mirrors (a vertically-folded catadioptric configuration). We show that this arrangement provides a compact solution for omnidirectional 3D perception while mounted on top of propeller-based MAVs (not capable of large payloads). The theoretical single viewpoint (SVP) constraint helps us derive analytical solutions for the sensor&rsquo;s projective geometry and generate SVP-compliant panoramic images to compute 3D information from stereo correspondences (in a truly synchronous fashion). We perform an extensive analysis on various system characteristics such as its size, catadioptric spatial resolution, field-of-view. In addition, we pose a probabilistic model for the uncertainty estimation of 3D information from triangulation of back-projected rays. We validate the projection error of the design using both synthetic and real-life images against ground-truth data. Qualitatively, we show 3D point clouds (dense and sparse) resulting out of a single image captured from a real-life experiment. We expect the reproducibility of our sensor as its model parameters can be optimized to satisfy other catadioptric-based omnistereo vision under different circumstances.</p>
 
-  
-  <div class="row">
-    <div class="col-sm-1"></div>
-    <div class="col-sm-10">
-      <div class="row">
-        <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
-        <div class="col-xs-12 col-sm-9">
-          
-          <a href="/publication/#2">
-            Journal
-          </a>
-          
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
+          <div class="col-xs-12 col-sm-9">
+            
+            <a href="/publication/#2">
+              Journal
+            </a>
+            
+          </div>
         </div>
       </div>
+      <div class="col-sm-1"></div>
     </div>
-    <div class="col-sm-1"></div>
-  </div>
-  <div class="visible-xs space-below"></div>
-  
+    <div class="visible-xs space-below"></div>
+    
 
-  <div class="row">
-    <div class="col-sm-1"></div>
-    <div class="col-sm-10">
-      <div class="row">
-        <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9">In MDPI <em>Sensors</em>, Special Issue Sensors for Robots.</div>
-      </div>
-    </div>
-    <div class="col-sm-1"></div>
-  </div>
-  <div class="visible-xs space-below"></div>
-
-  <div class="row">
-    <div class="col-sm-1"></div>
-    <div class="col-sm-10">
-      <div class="row">
-        <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-        <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-          February, 2016
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+          <div class="col-xs-12 col-sm-9">In MDPI <em>Sensors</em>, Special Issue Sensors for Robots.</div>
         </div>
       </div>
+      <div class="col-sm-1"></div>
     </div>
-    <div class="col-sm-1"></div>
-  </div>
-  <div class="visible-xs space-below"></div>
+    <div class="visible-xs space-below"></div>
 
-  <div class="row" style="padding-top: 10px">
-    <div class="col-sm-1"></div>
-    <div class="col-sm-10">
-      <div class="row">
-        <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
-        <div class="col-xs-12 col-sm-9">
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+            February, 2016
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
 
-          
+    <div class="row" style="padding-top: 10px">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-xs-12 col-sm-9">
+
+            
 
 
 
 
-<a class="btn btn-primary btn-outline" href="http://www.mdpi.com/1424-8220/16/2/217/pdf">
+<a class="btn btn-primary btn-outline" href="http://www.mdpi.com/1424-8220/16/2/217/pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/ubuntuslave/omnistereo_sensor_design">
+
+<a class="btn btn-primary btn-outline" href="https://github.com/ubuntuslave/omnistereo_sensor_design" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -299,17 +313,24 @@
 
 
 
+
+
+
+
+
+
+          </div>
         </div>
       </div>
+      <div class="col-sm-1"></div>
     </div>
-    <div class="col-sm-1"></div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
   </div>
-  <div class="visible-xs space-below"></div>
-
-  <div class="space-below"></div>
-
-  <div class="article-style"></div>
-
 </div>
 
 <div class="container">
@@ -335,8 +356,9 @@
 
       &copy; 2017 CCNY Robotics Lab &middot; 
 
-      Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
-      theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
       <span class="pull-right" aria-hidden="true">
         <a href="#" id="back_to_top">
@@ -350,12 +372,43 @@
   </div>
 </footer>
 
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
     
+
+    
+    
+
+    
+
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    
     
     <script src="/js/hugo-academic.js"></script>
     

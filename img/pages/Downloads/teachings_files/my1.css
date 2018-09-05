@@ -1,0 +1,16 @@
+.explanation {
+	font-size: 14px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+.title_text {
+	font-size: 30px;
+	font-family: "Times New Roman", Times, serif;
+}
+.title_first_letter {
+	font-size: 30px;
+	font-family: "Times New Roman", Times, serif;
+	color: #1000E5;
+	font-weight: bold;
+}
+.regular_text {font-size: 18px}

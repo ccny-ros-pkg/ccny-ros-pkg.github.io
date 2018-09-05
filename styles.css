@@ -26,13 +26,13 @@
 
 html {
   font-family: 'Roboto', sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 
@@ -200,6 +200,31 @@ blockquote p:last-child {
   }
 }
 
+small,
+.small {
+  font-size: .75em;
+}
+
+/*************************************************
+ *  Modals.
+ **************************************************/
+
+.modal-header .close {
+  font-size: 40px; /* Bigger cross. */
+  height: 30px; /* Remove icon's vertical spacing. */
+  overflow-y: hidden;
+  position: relative;
+  top: -5px;
+}
+
+.modal-content pre {
+  margin: 0;
+}
+
+#modal-error {
+  color: red;
+}
+
 /*************************************************
  *  Home Sections
  **************************************************/
@@ -245,6 +270,53 @@ blockquote p:last-child {
   font-weight: 400;
   font-size: 1.1rem;
   color: #b2b2b2;
+}
+
+/*************************************************
+ *  Hero Widget
+ **************************************************/
+
+.hero-overlay {
+  position: relative;
+  padding: 3em 0;
+  clear: both;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: intro 0.3s both;
+  animation-delay: 0s;
+  animation-delay: 0.25s;
+}
+
+.hero-title {
+  font-size: 2.7rem;
+  margin-top: 0;
+  line-height: 1;
+}
+
+.hero-lead {
+  max-width: 768px;
+  font-size: 1.35rem;
+}
+
+.hero-overlay .hero-title,
+.hero-overlay .hero-lead,
+.hero-overlay .btn {
+  color: #fff;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+}
+
+.hero-overlay a {
+  color: #fff;
+}
+
+.hero-overlay .hero-lead a {
+  color: #fff;
+  text-decoration-line: underline;
+}
+
+.hero-overlay .btn-large {
+  font-size: 1.1rem;
 }
 
 /*************************************************
@@ -468,11 +540,14 @@ article {
   margin-bottom: 5px;
 }
 
-.article-metadata .article-date,
-.article-metadata .article-reading-time,
-.article-metadata .article-categories,
-.article-metadata .article-tags {
-  margin-right: 10px;
+.middot-divider {
+  padding-right: .45em;
+  padding-left: .45em;
+  font-size: 15px;
+}
+
+.middot-divider::after {
+  content: '\00B7';
 }
 
 .article-style img,
@@ -494,6 +569,20 @@ article {
 .article-style figure img {
   margin-top: 0;
   margin-bottom: 0;
+}
+
+.article-widget {
+  padding-top: 1rem;
+}
+
+.article-widget h3 {
+  margin-top: 0;
+}
+
+.hr-light {
+  border-top: 1px solid rgba(0,0,0,.05);
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
 }
 
 #comments {
@@ -564,9 +653,9 @@ article {
  * Talks
  **************************************************/
 
-.talk-event {
-  color: #090;
-  font-size: 1rem;
+.talk-metadata {
+  color: #4b4f56;
+  font-size: 0.8rem;
 }
 
 /*************************************************
@@ -582,7 +671,6 @@ article {
 }
 
 #projects.home-section .project-title {
-  display: inline-block;
   margin-bottom: 6px;
 }
 
@@ -735,6 +823,11 @@ article {
   margin-bottom: 0;
 }
 
+#map {
+  height: 350px;
+  width: 100%;
+}
+
 /*************************************************
  *  Footer
  **************************************************/
@@ -770,6 +863,17 @@ footer a#back_to_top i {
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
   background: #0095eb !important;
+}
+
+.btn-light {
+  border-color: #fff !important;
+  background: #fff !important;
+}
+
+.btn-light:hover,
+.btn-light:active,
+.btn-light.active {
+  background: rgba(0,0,0,0.4) !important;
 }
 
 /*************************************************
@@ -823,6 +927,19 @@ footer a#back_to_top i {
   color: #fff !important;
 }
 
+.btn-light.btn-outline {
+  color: #fff !important;
+  border-color: #fff !important;
+}
+
+.btn-light.btn-outline:focus {
+  color: #fff !important;
+}
+
+.btn-light.btn-outline:active {
+  color: transparent !important;
+}
+
 .btn-success.btn-outline {
   color: #5cb85c;
 }
@@ -840,6 +957,7 @@ footer a#back_to_top i {
 }
 
 .btn-primary.btn-outline:hover,
+.btn-light.btn-outline:hover,
 .btn-success.btn-outline:hover,
 .btn-info.btn-outline:hover,
 .btn-warning.btn-outline:hover,
@@ -870,7 +988,7 @@ footer a#back_to_top i {
 }
 
 nav#navbar-main li {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .navbar-default .navbar-nav>li>a,
@@ -907,6 +1025,10 @@ nav#navbar-main li {
   line-height: 50px;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.navbar-brand img {
+  max-height: 50px;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -975,6 +1097,10 @@ nav#navbar-main li {
     line-height: 40px;
     padding-top: 5px;
     padding-bottom: 5px;
+  }
+
+  .navbar-brand img {
+    max-height: 40px;
   }
 
   .navbar-header {
