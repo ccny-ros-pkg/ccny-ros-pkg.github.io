@@ -1,0 +1,300 @@
++++
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Teachings: G7501</title>
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<link href="../../css/style.css" rel="stylesheet" type="text/css" />
+<link href="../../css/my1.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body onload="MM_preloadImages('../../graphics/Buttons/Button_1.jpg','../../graphics/Buttons/Button_2.jpg','../../graphics/Buttons/Button_3.jpg','../../graphics/Buttons/Button_4.jpg','../../graphics/Buttons/Button_5.jpg','../../graphics/Buttons/Button_6.jpg')">
+<table width="121" height="349" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td valign="top" nowrap="nowrap"><img src="../../graphics/Back_1.jpg" alt="Background" width="24" height="476" /><br />
+    <img src="../../graphics/Back_22.jpg" alt="Background" width="24" height="3766" /><br />
+    <img src="../../graphics/Back_24.jpg" alt="Background" width="24" height="406" /></td>
+    <td valign="top"><table width="200" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+      <tr>
+        <td colspan="3" nowrap="nowrap"><img src="../../graphics/Back_2.jpg" alt="Background" width="740" height="30" /></td>
+      </tr>
+      <tr>
+        <td width="132" nowrap="nowrap"><img src="../../graphics/Back_4.jpg" alt="Background" width="132" height="125" /><br />
+            <img src="../../graphics/Back_15.jpg" alt="Background" width="132" height="92" /></td>
+        <td width="490" nowrap="nowrap"><a href="../../jxiao.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home1','','../../graphics/Buttons/Button_1.jpg',1)"><img src="../../graphics/Back_5.jpg" alt="Home" name="Home1" width="139" height="46" border="0" id="Home1" /></a><a href="../resume.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Resume1','','../../graphics/Buttons/Button_2.jpg',1)"><img src="../../graphics/Back_6.jpg" alt="Resume" name="Resume1" width="159" height="46" border="0" id="Resume1" /></a><a href="../teachings.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Teachings1','','../../graphics/Buttons/Button_3.jpg',1)"><img src="../../graphics/Back_7.jpg" alt="Teachings" name="Teachings1" width="192" height="46" border="0" id="Teachings1" /><br />
+          </a><a href="../publications.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Publications1','','../../graphics/Buttons/Button_4.jpg',1)"><img src="../../graphics/Back_9.jpg" alt="Publications" name="Publications1" width="190" height="41" border="0" align="top" id="Publications1" /></a><a href="http://134.74.16.73/" target="_blank" onmouseover="MM_swapImage('CCNY Robotics Lab1','','../../graphics/Buttons/Button_5.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="../../graphics/Back_10.jpg" alt="CCNY Robotics Lab" name="CCNY Robotics Lab1" width="300" height="41" border="0" align="top" id="CCNY Robotics Lab1" /><br />
+          </a><a href="http://134.74.16.73/PRISM/content.php" target="_blank" onmouseover="MM_swapImage('PRISM Center at CCNY1','','../../graphics/Buttons/Button_6.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="../../graphics/Back_11.jpg" alt="PRISM Center at CCNY" name="PRISM Center at CCNY1" width="490" height="32" border="0" id="PRISM Center at CCNY1" /></a><br />
+          <img src="../../graphics/Back_12.jpg" alt="Background" width="166" height="98" border="0" /><img src="../../graphics/Back_13.jpg" alt="Background" width="148" height="98" border="0" /><img src="../../graphics/Back_14.jpg" alt="Background" width="176" height="98" border="0" /></td>
+        <td width="118" nowrap="nowrap"><img src="../../graphics/Back_8.jpg" alt="Background" width="118" height="125" /><br />
+            <img src="../../graphics/Back_16.jpg" alt="Background" width="118" height="92" /></td>
+      </tr>
+      <tr>
+        <td nowrap="nowrap"><img src="../../graphics/Back_17.jpg" alt="Background" width="58" height="60" /></td>
+        <td nowrap="nowrap"><div align="center" class="regular_text"> <span class="title_first_letter">T</span>he <span class="title_first_letter">C</span>ity <span class="title_first_letter">C</span>ollege of <span class="title_first_letter">N</span>ew   <span class="title_first_letter">Y</span>ork<br />
+          Department of Electrical   Engineering</div></td>
+        <td align="right" nowrap="nowrap"><img src="../../graphics/Back_19.jpg" alt="Background" width="59" height="60" /></td>
+      </tr>
+
+    </table>
+      <table width="740" height="671" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="671" align="left" valign="top" class="regular_text"><p align="center" class="title_text"><span class="title_first_letter"><strong>G7501:</strong></span>  Advanced Topics on Mobile ROBOTICS</p>
+          <hr align="center" width="600" />          <p align="center"><span class="title_first_letter">C</span>ourse <span class="title_first_letter">O</span>bjective:
+          </p>
+          <blockquote> This course is an in-depth study of state-of-the-art technologies  and methods of mobile robotics. The course consists of two components: lectures  on theory, and course projects. Lectures will draw from textbooks and current  research literature with several reading discussion classes. In project  component of this class, students will implement algorithms from the literature  on mobile robot platforms at the CCNY Robotics Lab (Activmedia robots, khepera  mini-robots, etc). The primary topics include control architectures, motion  planning, localization and mapping, navigation, adaptation and learning, and  multi-robot systems.            </blockquote>
+            <hr align="center" width="600" />            <div align="center"><strong>              Prerequisites</strong>: G5501 (Introduction to Robotics), good C++ programming skill</div>
+            <blockquote>
+            <hr align="center" width="600" />
+            <div align="center"><span class="title_first_letter">A</span>nnouncement:</div>
+            </blockquote>
+            <ul>
+              <li>You can download the G5501 lecture notes from <br />
+              <a href="2.html">http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/teaching/2.html. </a>Notice that, only the <br />
+              lecture  notes about mobile robotics (starting from week 10) are  necessary and accessible!</li>
+              <li>For students without the pre-requisites, I  strongly suggest you contact Edward Golovatch (Baurin) at T-678 to register  other courses. I won't change the topics,  teaching steps, and <br />
+              grading policy to adapt to your needs. You shall be fully  responsible for the grades you <br />
+              deserve. For these who are  really interested in taking G7501 and feel confident in handling <br />
+              the course,  please see me individually in office hours to get an assessment.</li>
+              <li>Due to resource limitation, the ideal  size of G7501 is 10 Ph.D./Master students working in <br />
+              small groups with  their projects. I encourage students without the  pre-requisites to take <br />
+              G5501 (to be offered in Fall 2005 semester) first.</li>
+            </ul>
+            <hr align="center" width="600" />
+            <p align="center"><span class="title_first_letter">G</span>eneral Information:</p>
+            <ul>
+              <li><strong>Description:</strong> Graduate level course,  3 credits, will be        offered in spring semester <br />
+              every year.</li>
+              <li><strong>Prerequisites: </strong>G5501 (Introduction to ROBOTICS)</li>
+              <li><strong>Instructor:</strong> Prof. John (Jizhong) Xiao</li>
+              <li><strong>Office:</strong> Steinman Hall, Room T534</li>
+              <li><strong>E-mail: </strong>jxiao@ccny.cuny.edu</li>
+              <li><strong>Lecture Time:</strong> Fri. 10:00pm-12:30pm</li>
+              <li><strong>Location:</strong> Steinman Hall, T-512</li>
+              <li><strong>Office Hours:</strong> Tu: 2:00-3:00pm, Th. 1:00pm -2:00pm or by appointment</li>
+              <li><strong>Tel: </strong>212-650-7268</li>
+              <li><strong>Website:
+                </strong>
+                <ul>
+                  <li>CCNY Robotics Lab: <a href="http://134.74.16.73/" target="_blank">http://134.74.16.73/</a></li>
+                  <li>Dr. Xiao's Personal website:  <a href="../../jxiao.html">http://www-ee.ccny.cuny.edu/www/web/jxiao/index.html</a></li>
+                </ul>
+              </li>
+            </ul>
+            <div align="center"><span class="title_first_letter">T</span>extbooks:            </div>
+            <ul>
+              <li>Introduction to AI Robotics, Robin R. Murphy, The MIT  Press, 2000, ISBN 0-262-13383-0.
+                <ul>
+                  <li>(Available at CCNY bookstore)</li>
+                </ul>
+              </li>
+            </ul>
+            <hr align="center" width="600" />            <div align="center"><span class="title_first_letter">R</span>eference <span class="title_first_letter">M</span>aterials:
+            </div>
+            <ul>
+              <li>Behavior-based Robotics, Ronald C. Arkin, The MIT Press, 1998,  ISBN 0-262-01165-4.
+                <ul>
+                  <li>(Available at CCNY bookstore)</li>
+                </ul>
+              </li>
+              <li>Introduction to Autonomous   Mobile   Robots, Roland Siegwart, Illah R. Nourbakhsh, The MIT Press, 2004, ISBN  0-262-19502-X.
+                <ul>
+                  <li>(Available at CCNY bookstore).</li>
+                </ul>
+              </li>
+              <li>Computational Principles of   Mobile   Robotics, Gregory Dudek, Michael Jenkin,     Cambridge     University     Press, 2000, ISBN 0-521-56876-5</li>
+              <li>Sensors for Mobile Robots --- Theory and Application, H.   R. Everett, A. K. Peters, Ltd, ISBN 1-56881-048-2.</li>
+              <li>Papers from current research literature</li>
+              <li>Saphira/Aria User’s Manual</li>
+              <li>Activmedia Pioneer Robot User’s Guide</li>
+            </ul>
+            <p align="center">You can find   these books (new or used) from <a href="http://www.amazon.com/" target="_blank">Amazon.com</a>.</p>
+            <hr align="center" width="600" />            <p align="center"><span class="title_first_letter">T</span>entative <span class="title_first_letter">T</span>opics:</p>
+            <blockquote>
+              <p>Control Architecture, Motion Planning, Localization and Mapping, Navigation,  Adaptation and Learning, and Multi-robot System </p>
+            </blockquote>
+            <hr align="center" width="600" />
+            <div align="center">
+              <p><span class="title_first_letter">C</span>ourse <span class="title_first_letter">S</span>chedule and   <span class="title_first_letter">U</span>pdate:            </p>
+            </div>
+            <table width="730" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#000000">
+              <tr>
+                <td width="10%" height="19" align="center" valign="middle"><div align="center">Week and date</div></td>
+                <td width="54%" height="19" align="center" valign="middle">Lecture notes</td>
+                <td width="11%" height="19" align="center" valign="middle">Homework</td>
+                <td width="25%" height="19" align="center" valign="middle">Comment</td>
+              </tr>
+              <tr>
+                <td width="10%" height="19" align="left" valign="middle">Week 1<br />
+                (Jan. 28)</td>
+                <td height="19" align="left" valign="middle">Introduction/Review: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/1-introduction.pdf" target="_blank">pdf        format</a>, <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/1-introduction.ppt" target="_blank">ppt format</a>; Video: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/sony_Qrio.wmv" target="_blank">Sony Qrio</a></td>
+                <td height="19" align="left" valign="middle"><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/hwk1.pdf" target="_blank"> HWK1</a>, Due: Feb. 4</td>
+                <td width="25%" height="19" align="left" valign="middle">ppt format of lecture notes was added on Feb. 2</td>
+              </tr>
+              <tr>
+                <td width="10%" height="29" align="left" valign="middle">Week 2 (Feb. 4)</td>
+                <td height="29" align="left" valign="middle">Mobile robot control: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/2-control.pdf" target="_blank">pdf        format</a>, <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/2-control.ppt" target="_blank">ppt format</a>
+                    <p>Required reading (you'd better read the paper below before the class):</p>
+                <p><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/paper-mobot-virtual-vehicle.pdf" target="_blank">Control of mobile platforms using a virtual vehicle        approach</a>; Egerstedt, M.   Hu, X.   Stotsky, A., IEEE Transactions on Automatic Control, Volume: 46,   Issue: 11, page(s): 1777-1782</p></td>
+                <td height="29" align="left" valign="middle"><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/hwk2.pdf" target="_blank">HWK2</a>, Due: Feb. 18</td>
+                <td width="25%" height="29" align="left" valign="middle">Lecture notes updated on Feb. 3</td>
+              </tr>
+              <tr>
+                <td width="10%" height="31" align="left" valign="middle" bgcolor="#ff00ff">Week 3 (Feb. 11)</td>
+                <td height="31" align="left" valign="middle" bgcolor="#ff00ff">College closed (Lincoln’s Birthday)</td>
+                <td height="31" align="left" valign="middle" bgcolor="#ff00ff"> </td>
+                <td width="25%" height="31" align="left" valign="middle" bgcolor="#ff00ff">  </td>
+              </tr>
+              <tr>
+                <td width="10%" height="19" align="left" valign="middle">Week 4 (Feb. 18)</td>
+                <td height="19" align="left" valign="middle">Hardware, software systems of Pioneer II robot;        review of homework: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/3-pioneer.ppt" target="_blank">ppt format</a>, <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/3-pioneer.pdf" target="_blank">pdf        format</a>
+                    <p>Required reading: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/P2-manual.pdf" target="_blank">Operation Manual</a>, <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/P2-Aria-Reference.pdf" target="_blank">Aria</a>, <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/P2-saphira-manual.pdf" target="_blank">Saphria</a></p>
+                <p>Useful documents: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/LINUX%20Commands.doc" target="_blank">Linux commands</a>, <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/Sample%20MakeFile%20needed%20to%20compile%20C.doc" target="_blank">Sample        Makefile</a>, <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/ARIAProg%28Template%29.doc" target="_blank">ARIA program template</a></p></td>
+                <td height="19" align="left" valign="middle">HWK2 updated,  Due: Mar. 4</td>
+                <td width="25%" height="19" align="left" valign="middle"> HWK2 updated with detailed instructions, how to        do simulation </td>
+              </tr>
+              <tr>
+                <td width="10%" height="19" align="left" valign="middle">Week 5 (Feb. 25)</td>
+                <td height="19" align="left" valign="middle">Control architecture, reading discussion
+                <p>You must read Part I overview, Chapter 2, Chapter 3,4, Chapter 7 of the        textbook (Intro. To AI Robotics) before entering the class</p></td>
+                <td height="19" align="left" valign="middle">No lecture notes</td>
+                <td width="25%" height="19" align="left" valign="middle">   </td>
+              </tr>
+              <tr>
+                <td width="10%" height="19" align="left" valign="middle">Week 6 (Mar.  4)</td>
+                <td height="19" align="left" valign="middle"> Control architecture continue, reading discussion        &amp; Summary, 
+                <p>Read the chapters you are not assigned to make presentation, be        prepared for discussion  </p></td>
+                <td height="19" align="left" valign="middle"><p>&nbsp;</p></td>
+                <td width="25%" height="19" align="left" valign="middle"><blockquote>&nbsp;</blockquote></td>
+              </tr>
+              <tr>
+                <td width="10%" height="21" align="left" valign="middle">Week 7 (Mar. 11) </td>
+                <td height="21" align="left" valign="middle"><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/chapter9.ppt" target="_blank">Chapter 9</a>, <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/chapter10.ppt" target="_blank">Chapter        10</a></td>
+                <td height="21" align="left" valign="middle"><p>&nbsp;</p></td>
+                <td width="25%" height="21" align="left" valign="middle"><blockquote>&nbsp;</blockquote></td>
+              </tr>
+              <tr>
+                <td width="10%" height="19" align="left" valign="middle">Week 8 (Mar. 18)</td>
+                <td height="19" align="left" valign="middle">Localization and mapping (1) Bayes-based,        Dempster-Shafer theory, HIMM, Reading: chap.11 of the text book. 
+                <p>Lecture notes: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/mapping.ppt" target="_blank">Sonar and Bayes' rule</a>, <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/chapter11.ppt">Murphy's        notes </a> </p></td>
+                <td height="19" align="left" valign="middle"> </td>
+                <td width="25%" height="19" align="left" valign="middle"> HWK 3, paper review </td>
+              </tr>
+              <tr>
+                <td width="10%" height="19" align="left" valign="middle">Week 9 (Mar. 24) </td>
+                <td height="19" align="left" valign="middle">Exam (1)</td>
+                <td height="19" align="left" valign="middle"><p>&nbsp;</p></td>
+                <td width="25%" height="19" align="left" valign="middle">Friday Schedule</td>
+              </tr>
+              <tr>
+                <td width="10%" height="19" align="left" valign="middle" bgcolor="#ff00ff">Mar. 25-29</td>
+                <td height="19" align="left" valign="middle" bgcolor="#ff00ff">No Classes (College Open)</td>
+                <td height="19" align="left" valign="middle" bgcolor="#ff00ff"> </td>
+                <td width="25%" height="19" align="left" valign="middle" bgcolor="#ff00ff"> </td>
+              </tr>
+              <tr>
+                <td width="10%" height="17" align="left" valign="middle">Week 10 (Apr. 1)</td>
+                <td height="17" align="left" valign="middle">Localization and mapping (2) Markov        Localization; Reading: chapter 5        of Intro. to Autonomous Mobile Robots
+                <p><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/chap5_localization%20map%20building.pdf" target="_blank">Lecture notes:        chapter 5</a>, <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/Localization-review.ppt" target="_blank">Markov localization        review</a></p></td>
+                <td height="17" align="left" valign="middle"><p>&nbsp;</p></td>
+                <td width="25%" height="17" align="left" valign="middle"><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/project.ppt" target="_blank">Project assignment and        proposal </a>
+                    <p>Due date: April 8</p></td>
+              </tr>
+              <tr>
+                <td width="10%" height="28" align="left" valign="middle">Week 11 (Apr. 8)</td>
+                <td height="28" align="left" valign="middle">10:00-11:00am, lecture: Localization and mapping        (3) Kalman filter method
+                  <p>11:00-12:30pm, Lab Exercise at Robotics Lab, T-548</p>
+                <p>Reading: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/KalmanFilter-welch-bishop-01.pdf" target="_blank">Kalman filter        fundamental </a></p></td>
+                <td height="28" align="left" valign="middle"><p>&nbsp;</p></td>
+                <td width="25%" height="28" align="left" valign="middle"><p>&nbsp;</p></td>
+              </tr>
+              <tr>
+                <td width="10%" height="19" align="left" valign="middle">Week 12 (Apr. 15)</td>
+                <td height="19" align="left" valign="middle"> 10:00-11:00am: Lab Exercise at Robotics        Lab, T-548
+                  <p>11:00-12:00pm: Invited Talk at T-512</p>
+                  <p>Topics: Multimedia/Multimodal Signal Processing, Analysis, and Understanding</p>
+                <p>Guest speaker: Prof. T. S. Huang, Beckman Institute for Advanced Science and Technology,        University of Illinois at Urbana-Champaign, Member of the National Academy of Engineering,        Foreign Member of the Chinese Academies of Engineering and Sciences; and a Fellow        of IEEE and the International Association of Pattern Recognition</p></td>
+                <td height="19" align="left" valign="middle"><p>&nbsp;</p></td>
+                <td width="25%" height="19" align="left" valign="middle"><p>&nbsp;</p></td>
+              </tr>
+              <tr>
+                <td width="10%" height="19" align="left" valign="middle">Week 13 (Apr. 22)</td>
+                <td height="19" align="left" valign="middle">Project Exercise in Robotics Lab 
+                <p>3 teams are required to do your term projects in the Robotics Lab. I        will be out-of-town today for ICRA2005.    </p></td>
+                <td height="19" align="left" valign="middle"> </td>
+                <td width="25%" height="19" align="left" valign="middle" bgcolor="#ff00ff">ICRA2005 Conference</td>
+              </tr>
+              <tr>
+                <td width="10%" height="19" align="left" valign="middle" bordercolor="#ff00ff" bgcolor="#ff00ff">Apr. 23-May        1</td>
+                <td height="19" align="left" valign="middle" bordercolor="#ff00ff" bgcolor="#ff00ff">Spring Recess (College Open)
+                <p>Send  me  e-mails to set up appointments if you need to        access Robotics Lab or have questions. I will be available most of this        week. </p></td>
+                <td height="19" align="left" valign="middle" bordercolor="#ff00ff" bgcolor="#ff00ff"> </td>
+                <td width="25%" height="19" align="left" valign="middle" bordercolor="#ff00ff" bgcolor="#ff00ff"> </td>
+              </tr>
+              <tr>
+                <td width="10%" height="31" align="left" valign="middle">Week 15 (May 6)</td>
+                <td height="31" align="left" valign="middle"> Localization and mapping (3): <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/Localization-II.ppt" target="_blank"> Particle        Filter, Monte Carlo Localization</a>, Multi-robot system, SLAM, 
+                  <p><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/Aria-guide.pdf" target="_blank">Aria Class Information;</a> very useful for        your project implementation!</p>
+                  <p><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/localization-monte-carlo.pdf" target="_blank">Paper 1: Monte Carlo        Localization</a>, <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/localization-comparison.pdf" target="_blank">Paper2: Methods        Comparison</a></p>
+                <p><a href="http://www.cs.washington.edu/ai/Mobile_Robotics" target="_blank">Univ. of        Washington's Robotics Research</a> </p></td>
+                <td height="31" align="left" valign="middle"><p>&nbsp;</p></td>
+                <td width="25%" height="31" align="left" valign="middle">HWK4: Describe the differences of the three        localization methods: Markov localization, Kalman Filter, and Monte Carlo        localization. The essay shall be at least two pages. You need to review        the text books and read the papers to have a meaningful comparison. Due        date: May 18</td>
+              </tr>
+              <tr>
+                <td width="10%" height="19" align="left" valign="middle">Week 16 (May 13)</td>
+                <td height="19" align="left" valign="middle">9:40~10:30am, Project exercise in Robotics Lab        (T-548)
+                  <p>10:30~11:30am: Invited Talk on Robotics at T-512</p>
+                  <p>Guest Speaker: Prof. Roderic A. Grupen, Director, <a href="http://www-robotics.cs.umass.edu/" target="_blank"> Laboratory for Perceptual        Robotics</a>,        Computer Science Dept., UMass. at Amherst</p>
+                  <p>2:30~3:30pm: Invited Talk on Vision at T-512</p>
+                <p>Guest Speaker: Profs. Allen Hanson and Ed Riseman, Director, <a href="http://vis-www.cs.umass.edu/index.html" target="_blank">Computer        Vision Labotory</a>, UMass at Amherst</p></td>
+                <td height="19" align="left" valign="middle"> </td>
+                <td width="25%" height="19" align="left" valign="middle">All students in the class are required to attend        the two talks</td>
+              </tr>
+              <tr>
+                <td width="10%" height="42" align="left" valign="middle" bgcolor="#00ff00">Final Week</td>
+                <td height="42" align="left" valign="middle" bgcolor="#00ff00"><strong>May 18 (Last        day of class)</strong></td>
+                <td height="42" align="left" valign="middle" bgcolor="#00ff00"> </td>
+                <td width="25%" height="42" align="left" valign="middle" bgcolor="#00ff00">Project demo. and final report        due date: May 27</td>
+              </tr>
+            </table>
+            <hr align="center" width="600" />            <p align="center"><span class="title_first_letter">G</span>rading <span class="title_first_letter">P</span>olicy (Tentative):</p>
+            <p align="center">Homework: 30%<br />
+              Midterm exam: 30%<br />
+              Final Project: 40%              </p>
+            <p align="center">A: 90~100; B: 80~90; C: 70~80; D: 60~70; F: under 60 </p>
+            <p align="center">&nbsp;</p>          </td>
+      </tr>
+    </table></td>
+    <td valign="top" nowrap="nowrap"><img src="../../graphics/Back_3.jpg" alt="Background" width="26" height="488" /><br />
+    <img src="../../graphics/Back_23.jpg" alt="Background" width="26" height="3800" /><br />
+    <img src="../../graphics/Back_25.jpg" alt="Background" width="26" height="360" /></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>

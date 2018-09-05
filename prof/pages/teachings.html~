@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><!-- saved from url=(0051)file:///C:/Users/df/Documents/Downloads/resume.html --><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><!-- saved from url=(0056)file:///C:/Users/df/Documents/Downloads/My%20Resume.html --><!-- saved from url=(0059)http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/resume.html -->
+
+
+
+
+
+<title>Resume</title><script type="text/JavaScript">
+
+<!--
+
+function MM_preloadImages() { //v3.0
+
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+
+}
+
+
+
+function MM_swapImgRestore() { //v3.0
+
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+
+}
+
+
+
+function MM_findObj(n, d) { //v4.01
+
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+
+}
+
+
+
+function MM_swapImage() { //v3.0
+
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+
+}
+
+//-->
+
+</script>
+
+<link href="./teachings_files/style.css" rel="stylesheet" type="text/css" />
+
+<link href="./teachings_files/my1.css" rel="stylesheet" type="text/css" media="all" /></head>
+
+<body onload="MM_preloadImages('../graphics/Buttons/Button_1.jpg','../graphics/Buttons/Button_2.jpg','../graphics/Buttons/Button_3.jpg','../graphics/Buttons/Button_4.jpg','../graphics/Buttons/Button_5.jpg','../graphics/Buttons/Button_6.jpg')">
+
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="349" width="121">
+
+  <tbody><tr>
+
+    <td nowrap="nowrap" valign="top"><img src="./teachings_files/Back_1.jpg" alt="Background" height="476" width="24" /><br />
+
+    <img style="width: 24px; height: 741px;" src="./teachings_files/Back_22.jpg" alt="Background" /><br />
+
+    <img style="width: 24px; height: 1px;" src="./teachings_files/Back_24.jpg" alt="Background" /></td>
+
+    <td valign="top"><table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="200">
+
+      <tbody><tr>
+
+        <td colspan="3" nowrap="nowrap"><img src="./teachings_files/Back_2.jpg" alt="Background" height="30" width="740" /></td>
+
+      </tr>
+
+      <tr>
+
+        <td nowrap="nowrap" width="132"><img src="./teachings_files/Back_4.jpg" alt="Background" height="125" width="132" /><br />
+
+            <img src="./teachings_files/Back_15.jpg" alt="Background" height="92" width="132" /></td>
+
+        <td nowrap="nowrap" width="490"><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/jxiao.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home1','','../graphics/Buttons/Button_1.jpg',1)"><img src="./teachings_files/Back_5.jpg" alt="Home" name="Home1" id="Home1" border="0" height="46" width="139" /></a><a href="file:///C:/Users/df/Documents/Downloads/My%20Resume_files/My%20Resume.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Resume1','','../graphics/Buttons/Button_2.jpg',1)"><img src="./teachings_files/Back_6.jpg" alt="Resume" name="Resume1" id="Resume1" border="0" height="46" width="159" /></a><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/teachings.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Teachings1','','../graphics/Buttons/Button_3.jpg',1)"><img src="./teachings_files/Back_7.jpg" alt="Teachings" name="Teachings1" id="Teachings1" border="0" height="46" width="192" /><br />
+
+          </a><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/publications.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Publications1','','../graphics/Buttons/Button_4.jpg',1)"><img src="./teachings_files/Back_9.jpg" alt="Publications" name="Publications1" id="Publications1" align="top" border="0" height="41" width="190" /></a><a href="http://134.74.16.73/" target="_blank" onmouseover="MM_swapImage('CCNY Robotics Lab1','','../graphics/Buttons/Button_5.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="./teachings_files/Back_10.jpg" alt="CCNY Robotics Lab" name="CCNY Robotics Lab1" id="CCNY Robotics Lab1" align="top" border="0" height="41" width="300" /><br />
+
+          </a><a href="http://134.74.16.73/PRISM/content.php" target="_blank" onmouseover="MM_swapImage('PRISM Center at CCNY1','','../graphics/Buttons/Button_6.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="./teachings_files/Back_11.jpg" alt="PRISM Center at CCNY" name="PRISM Center at CCNY1" id="PRISM Center at CCNY1" border="0" height="32" width="490" /></a><br />
+
+          <img src="./teachings_files/Back_12.jpg" alt="Background" border="0" height="98" width="166" /><img src="./teachings_files/Back_13.jpg" alt="Background" border="0" height="98" width="148" /><img src="./teachings_files/Back_14.jpg" alt="Background" border="0" height="98" width="176" /></td>
+
+        <td nowrap="nowrap" width="118"><img src="./teachings_files/Back_8.jpg" alt="Background" height="125" width="118" /><br />
+
+            <img src="./teachings_files/Back_16.jpg" alt="Background" height="92" width="118" /></td>
+
+      </tr>
+
+      <tr>
+
+        <td nowrap="nowrap"><img src="./teachings_files/Back_17.jpg" alt="Background" height="55" width="58" /></td>
+
+        <td nowrap="nowrap"><div class="title_text" align="center"><span class="title_first_letter"><a name="top" id="top"></a>M</span>y Teaching...</div></td>         
+
+        <td align="right" nowrap="nowrap"><img src="./teachings_files/Back_19.jpg" alt="Background" height="55" width="59" /></td>
+
+      </tr>
+
+      
+
+    </tbody></table>
+
+      <table border="0" cellpadding="0" cellspacing="0" height="671" width="740">
+
+      <tbody><tr>
+
+        <td class="regular_text" align="left" height="671" valign="top"><p align="center">          -<a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/resume.html#education">Education</a>- -<a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/resume.html#experience">Experience</a>- -<a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/resume.html#affiliations">Affiliations</a>- -<a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/resume.html#honors">Honors</a>- -<a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/resume.html#research">Research</a>- -<a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/resume.html#grants">Grants</a>- -<a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/resume.html#services">Services</a>-</p>
+
+          <hr align="center" width="600" />
+
+          <p align="center"><span class="title_first_letter"><a name="education" id="education"></a>T</span>eachings</p><span style=""><span style="font-weight: bold;">&nbsp; &nbsp;&nbsp;</span></span><span style=""><b>Fall 2017</b></span><br /><ul><li class="regular_text"><span style=""><span style="">EE G5501: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/G5501-F17.htm">Introduction to Robotics</a><br /></span></span></li></ul><span style=""><span style="font-weight: bold;">&nbsp; &nbsp;&nbsp;</span></span><span style=""><b>Spring 2017<br /></b></span><ul><li class="regular_text"><span style=""><span style="">EE G3300: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/G3300-s17.htm">Advance Mobile Robotics</a></span></span></li><li class="regular_text"><span style=""><span style="">EE/CpE/CS 598.66/67: <a href="http://www-cs.engr.ccny.cuny.edu/%7Ezhu/Capstone2016/Zhu-Capstone-2016-2017.html">Joint Senior Design on Smart Living and Assistive Technology to Help People in Need</a><br /></span></span></li></ul><span style=""><span style="font-weight: bold;">&nbsp; &nbsp;&nbsp;</span></span><span style=""><b>Other Semesters:</b></span><br /><ul><li class="regular_text"><span style=""><span style="">NJUST-Summer Course: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/NUST-summer-2010.htm">Advanced Mobile Robotics</a> (Summer 2010)<br /></span></span></li><li class="regular_text"><span style=""><span style="">EE205 (section M): <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/EE205-S10.htm">Linear Systems I</a> (Spring 2010)<br /></span></span></li><li class="regular_text"><span style=""><span style="">EE598.67: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/EE59867-S10.htm">Senior Design II -- Robotics &amp; Embedded Systems Track</a> (Spring2010)<br /></span></span></li><li class="regular_text"><span style=""><span style="">EE I7501: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/G3300-s09.htm">Advanced Mobile Robotics</a> (Spring 2005 ~2010)<br /></span></span></li><li class="regular_text"><span style=""><span style="">EE I5501: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/G5501-F08.htm">Introduction to Robotics</a> (Fall 2003~2010)<br /></span></span></li><li class="regular_text"><span style=""><span style="">EE598.66/67: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/EE59866-F09.htm">Senior Design I &amp; II -- Robotics and Embedded Systems Track</a> (Fall2004~Spring2010)<br /></span></span></li><li class="regular_text"><span style=""><span style="">EE598.55: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/EE598-web.htm">Capstone Design - Robotics</a> (Spring 2003)<br /></span></span></li><li class="regular_text"><span style=""><span style="">EE259: <a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/EE259Syllabus.html">Computer Programming for Electrical Engineer</a> (Fall 2002)</span></span></li></ul><blockquote>
+
+
+
+            <p align="right"><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/resume.html#top" class="explanation">Back to top</a></p></blockquote><span style=""><span style="font-weight: bold;">&nbsp; &nbsp;&nbsp;</span></span><span style=""><b>Useful Links Related to Robot Design:<br /></b></span><ul><li class="regular_text">6.270 MIT’s Autonomous Robot Design Competition, <a href="http://web.mit.edu/6.270/">http://web.mit.edu/6.270/</a></li><li class="regular_text">Acroname Inc. for easy robotics, sensors, kits, etc, <a href="http://www.acroname.com/">http://www.acroname.com/</a></li><li class="regular_text">Lynxmotion Inc. for robots, parts, and accessories, etc, <a href="http://www.lynxmotion.com/">http://www.lynxmotion.com</a></li><li class="regular_text">Handy board, <a href="http://www.handyboard.com/">http://www.handyboard.com/</a></li><li class="regular_text">Comprehensive list of sensors and links, <a href="http://www.pacific.net/%7Ebrooke/Sensors.html">http://www.pacific.net/~brooke/Sensors.html</a></li><li class="regular_text">Interactive C User’s Guide, etc., <a href="http://www.newtonlabs.com/ic/">http://www.newtonlabs.com/ic/</a></li><li class="regular_text">On-line resources related to LEGO, <a href="http://web.me.unr.edu/me151/resources.htm">http://web.me.unr.edu/me151/resources.htm</a></li><li class="regular_text">The Electronic Goldmine: cheep motors, electronics components, <a href="http://www.goldmine-elec.coml/">http://www.goldmine-elec.coml</a></li></ul>
+
+          <ul></ul>          
+
+          <blockquote>
+
+            <p align="right"><a href="http://www-ee.ccny.cuny.edu/www/web/jxiao/pages/resume.html#top" class="explanation">Back to top</a></p>
+
+            </blockquote>
+
+          </td>
+
+      </tr>
+
+    </tbody></table></td>
+
+    <td nowrap="nowrap" valign="top"><img src="./teachings_files/Back_3.jpg" alt="Background" height="488" width="26" /><br />
+
+    <img style="width: 26px; height: 729px;" src="./teachings_files/Back_23.jpg" alt="Background" /><br />
+
+    <br /></td>
+
+  </tr>
+
+</tbody></table>
+
+<p>&nbsp;</p>
+
+
+
+
+
+</body></html>
